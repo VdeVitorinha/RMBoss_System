@@ -1,0 +1,32 @@
+...Correção...
+não pode maximizar a area de login.
+logar com botão enter.
+botão adicionar - tela clientes.
+limitadores de dados de telefone/ data/
+cpf/ R$ na tela de pedidos / dias (tela de pedidos).
+diminuir o espaçamento de (Codigo de atendimento).
+area azul no codigo de atendimento.
+fazer o campo de valor aceitar . e ,(Pedidos).
+botão (editar) na tela de pedido
+ao salvar um pedido aparecer o codigo do 
+atendimento.
+
+
+
+...Implementar...
+banco por host externo.
+colocar formulario de conexão com o banco.
+contador automatico que avisa que está proximo
+da data da entrega.
+usar 2 clicks para abrir atendimento na tela de 
+consulta.
+colocar as lacunas de digitação para receber valores com potuação
+Exemplo: (+55 (27) 999999999) ou (29-254 798) ou (R$:1.200,50).
+no modulo de pedidos:
+dividir as informações de clientes e de pedido
+exemplo:(Cliente
+nome cpf contato email
+	   Pedidos
+tipo de produto material).
+no modulo de pedidos:
+na parte de cliente o unico campo que devera ser digitado é o de cpf/cnpj.
